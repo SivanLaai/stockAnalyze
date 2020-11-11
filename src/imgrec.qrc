@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>img/delete.png</file>
+        <file>img/delete1.png</file>
+        <file>img/extraFunction.png</file>
+        <file>img/LOGO.png</file>
+        <file>img/max20.png</file>
+        <file>img/min20.png</file>
+        <file>img/person.png</file>
+        <file>img/personGroup.png</file>
+        <file>img/quit20.png</file>
+        <file>img/return20.png</file>
+    </qresource>
+</RCC>
